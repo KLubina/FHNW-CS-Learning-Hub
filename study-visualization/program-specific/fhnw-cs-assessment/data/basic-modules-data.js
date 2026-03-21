@@ -62,7 +62,7 @@ window.StudiengangModules = [
     name: "Data & AI Fundation",
     ects: 6,
     standardcategory: "Fachgrundlagen & Fachergänzungen",
-    orientationRank: 2,
+    orientationRank: 1,
     year: 1,
     semester: 2,
     isAssessment: true,
