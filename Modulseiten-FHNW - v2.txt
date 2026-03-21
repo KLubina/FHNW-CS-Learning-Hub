@@ -1,0 +1,36 @@
+# 1. Semester
+Programmieren 1
+https://www.fhnw.ch/de/studium/module/9794369
+
+User Centered Design and Requirements Engineering
+https://www.fhnw.ch/de/studium/module/9795670
+
+Informationssysteme
+https://www.fhnw.ch/de/studium/module/9795679
+
+Mathematische Grundlagen der Informatik
+https://www.fhnw.ch/de/studium/module/9813296
+
+Software Engineering Fundamentals
+https://www.fhnw.ch/de/studium/module/9813303
+
+# 2. Semester
+Individuelles Softwareprojekte
+https://www.fhnw.ch/de/studium/module/9795668
+
+System Engineering
+https://www.fhnw.ch/de/studium/module/9797596
+
+Data & AI Fundation
+https://www.fhnw.ch/de/studium/module/9795684
+
+Informationssysteme
+https://www.fhnw.ch/de/studium/module/9795679
+
+Programmieren 2
+https://www.fhnw.ch/de/studium/module/9794384
+
+Lineare Algebra
+https://www.fhnw.ch/de/studium/module/9813291
+
+https://issuu.com/fhnw/docs/modultabelle_informatik
