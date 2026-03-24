@@ -260,11 +260,11 @@ Diese Modul führt in die grundlegenden Konzepte, Aufgaben und Methoden des Entw
 
 [Modullink](https://www.fhnw.ch/de/studium/module/9795668)
 
-**Inhaltsübersicht**
+#### 1st Level
 
-In diesem Modul kombinieren die Studierenden Wissen und Fähigkeiten aus den anderen Grundlagenmodulen und wenden diese praktisch an. Sie lernen, ein kleines, aber vollständiges Softwareprojekt umzusetzen, vom Prototyping über die Implementation bis zum Betrieb. Sie bringen dabei eigene Ideen ein, werden individuell begleitet und erhalten laufend Feedback zu Fortschritt und Arbeitsweise.
+Sie lernen, ein kleines, aber vollständiges Softwareprojekt umzusetzen, vom Prototyping über die Implementation bis zum Betrieb.
 
-**Lernziele**
+#### Most detailed Level
 
 - Die Studierenden kennen Vorteile von inkrementeller Entwicklung und können dieses Vorgehensmodell in einem eigenen Softwareprojekt anwenden.
 - Die Studierenden verstehen den Nutzen verschiedener Arten von Prototyping und können auf der Erfahrung von mindestens einer davon aufbauen.
@@ -278,9 +278,11 @@ In diesem Modul kombinieren die Studierenden Wissen und Fähigkeiten aus den and
 
 [Modullink](https://www.fhnw.ch/de/studium/module/9797596)
 
-**Inhaltsübersicht**
+#### 1st Level
 
 Das Modul System Engineering soll sämtliche Grundlagen vermitteln, um Systeme rudimentär zu entwerfen und zu betreiben. Studierende sollen nach Abschluss des Moduls die Fähigkeiten besitzen, Computersysteme vollumfänglich zu installieren und administrieren zu können, anhand moderner Engineering-Prinzipien.
+
+#### Most detailed Level
 
 Inhalte:
 
@@ -308,9 +310,11 @@ Die Studierenden können sicher Server installieren und administrieren:
 
 [Modullink](https://www.fhnw.ch/de/studium/module/9795684)
 
-**Inhaltsübersicht**
+#### 1st Level
 
 Studierende lernen in diesem Modul die Grundlagen für die implizite Instruktion von Computern mit Beispielen, das heisst mit Trainingsdaten anstelle von expliziten Instruktionen. Sie lernen Daten zu visualisieren und zu beschreiben, simple Machine-Learning-Modelle zu bauen, prätrainierte (Sprach-)Modelle einzusetzen und zu evaluieren.
+
+#### Most detailed Level
 
 Inhalte:
 
@@ -340,9 +344,11 @@ Inhalte:
 
 [Modullink](https://www.fhnw.ch/de/studium/module/9794384)
 
-**Inhaltsübersicht**
+#### 1st Level
 
 Dieses Modul baut auf Programmieren 1 auf und geht in drei Bereichen in die Tiefe: Programmieren auf höheren Abstraktionsstufen, dynamische Datenstrukturen und Umgang mit komplexen Bibliotheken und Frameworks.
+
+#### Most detailed Level
 
 Inhalte:
 
@@ -369,9 +375,11 @@ Inhalte:
 
 [Modullink](https://www.fhnw.ch/de/studium/module/9813291)
 
-**Inhaltsübersicht**
+#### 1st Level
 
 Die Lineare Algebra ist die Grundlage für die Bearbeitung von drei- und mehrdimensionalen Problemen aus diversen Gebieten wie Raumgeometrie, 3D Graphik, Astronomie, Mechanik, Elektrodynamik, PageRanking (Internet) usw. Die Technik der Linearen Algebra verwendet Vektoren, Matrizen, Gleichungssysteme und lineare Abbildungen.
+
+#### Most detailed Level
 
 Themen:
 
