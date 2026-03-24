@@ -124,16 +124,31 @@ Dieses Modul kombiniert die Grundlagen von User-centred Design mit den Prinzipie
 
 Einführung in die verschiedenen Ebenen und Komponenten moderner Informationssysteme
 
-**Lernziele**
+#### Most detailed Level
 
-- Die Studierenden sind nach erfolgreichem Abschluss des Moduls in der Lage, die grundlegenden Konzepte und Komponenten moderner Informationssysteme anhand eines durchgehenden Technologiestacks (Linux, Netzwerk, Container, Datenbank-Systeme, Datenmanagement) zu erläutern und in einen grösseren Kontext einzuordnen.
-- Die Studierenden können die verschiedenen Ebenen moderner Informations- und Computersysteme verwenden und einordnen.
+- **1. Was ist ein Informationssystem**
+  - grundlegende Konzepte und Komponenten moderner Informationssysteme anhand eines durchgehenden Technologiestacks erläutern und in einen grösseren Kontext einordnen
+    - Linux
+    - Netzwerk
+    - Container
+    - Datenbank-Systeme
+    - Datenmanagement
+  - verschiedene Ebenen moderner Informations- und Computersysteme verwenden und einordnen.
 
-- Die Studierenden können Informationen modellieren und eine Datenbank zur Speicherung der entsprechenden Daten aufsetzen.
-- Die Studierenden können Daten aus einer Datenbank lesen und Daten in die Datenbank einfügen und mutieren.
-- Die Studierenden beherrschen die notwendigen Methoden und Werkzeuge, um von Grund auf eigenständig kleine Informationssysteme basierend auf Open-Source Lösungen zu konzipieren, aufzubauen und zu betreiben.
+- **2. Datenmanagement**
+  - Informationen modellieren
+  - eine Datenbank zur Speicherung der entsprechenden Daten aufsetzen.
+  - Daten aus einer Datenbank lesen
+  - Daten in die Datenbank einfügen und mutieren.
 
-- Die Studierenden kennen die Konzepte des Datenschutzes und der Datensicherheit und wissen, wie diese durch ein Informationssystem sichergestellt werden können. Die Studierenden verstehen die Grundlagen aktueller Technologien für Informationssysteme und können diese situationsgerecht für konkrete Aufgabenstellungen einsetzen.
+- **3. Datenschutz und Datensicherheit**
+  - Die Studierenden kennen die Konzepte des Datenschutzes
+  - und der Datensicherheit
+
+- **4. Informationsysteme in die Praxis umsetzen**
+  - von Grund auf eigenständig kleine Informationssysteme basierend auf Open-Source Lösungen zu konzipieren, aufzubauen und zu betreiben.
+  - Die Studierenden verstehen die Grundlagen aktueller Technologien für Informationssysteme
+  - und können diese situationsgerecht für konkrete Aufgabenstellungen einsetzen.
 
 ---
 
@@ -177,36 +192,34 @@ Inhalte:
 
 [Modullink](https://www.fhnw.ch/de/studium/module/9813303)
 
-**Inhaltsübersicht**
+#### 1st Level
 
-Software Engineering hat zum Ziel, komplexere Softwaresysteme systematisch und erfolgreich zu entwickeln. Es gibt bewährte Techniken, Methoden und Tools um qualitativ hochstehende Software, unter Einhaltung von Zielvorgaben zu erstellen, selbst dann, wenn sich das Umfeld rasch ändert. Diese Modul führt in die grundlegenden Konzepte, Aufgaben und Methoden des Software Engineering ein.
+Diese Modul führt in die grundlegenden Konzepte, Aufgaben und Methoden des Entwicklungprozesses von Software ein.
 
-Einführung in Software Engineering Kernaufgaben:
+#### Most detailed Level
 
-- **Requirements Engineering:** Ermittlung und Analyse von Anforderungen
-- **System Design:** Von den Anforderungen zum Lösungsentwurf einer Software
-- **Coding:** Entwürfe für Softwaresysteme und deren Programmierung
-- **Testing:** Software-Teststrategien und ausgewählte Testtechniken
-
-Begleitthemen:
-
-- Softwarespezifische Herausforderungen
-- Softwareentwicklungsprojekte und -prozesse
-- Modellierung
-- Werkzeuge für das Software Engineering
-
-**Lernziele**
-
-Die Studierenden:
-
-- sind vertraut mit den Aufgabenbereichen, den grundlegenden Begriffen und den Konzepten des Software Engineering
-- verstehen die Rollen in einem Softwareentwicklungsprojekt und deren Zusammenspiel
-- können grundlegende Methoden und Techniken für die Entwicklung von Softwarelösungen anwenden
-- können zentrale Aufgaben einer Projektrolle übernehmen und sich im Aufgabengebiet des Software Engineering positionieren
-- sind in der Lage die systematische Entwicklung von Software mit hoher Qualität zu unterstützen
-- können Problemstellungen und Lösungen modellieren, mit Komplexität umgehen und abstrahieren
-
----
+- **Requirements Engineering:**
+  - Ermittlung und Analyse von Anforderungen
+  - können Problemstellungen analysieren und modellieren
+  - können zentrale Aufgaben dieser Projektrolle übernehmen und sich im Aufgabengebiet positionieren
+- **System Design:**
+  - Von den Anforderungen zum Lösungsentwurf einer Software
+  - Softwarespezifische Herausforderungen
+  - Softwareentwicklungsprojekte und -prozesse
+    - verstehen die Rollen in einem Softwareentwicklungsprojekt und deren Zusammenspiel
+    - können grundlegende Methoden und Techniken für die Entwicklung von Softwarelösungen anwenden
+  - Modellierung
+    - können Problemstellungen und Lösungen modellieren
+    - können mit Komplexität umgehen und abstrahieren
+- **Coding:**
+  - Entwürfe für Softwaresysteme und deren Programmierung
+    - können zentrale Aufgaben einer Projektrolle übernehmen
+    - können grundlegende Methoden und Techniken anwenden
+  - Werkzeuge für das Software Engineering
+- **Testing:**
+  - Software-Teststrategien und ausgewählte Testtechniken
+    - sind in der Lage die systematische Entwicklung von Software mit hoher Qualität zu unterstützen
+    - sind vertraut mit den grundlegenden Konzepten und Aufgabenbereichen des Software Engineering
 
 ## 2. Semester
 
