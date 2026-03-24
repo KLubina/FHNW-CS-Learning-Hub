@@ -156,35 +156,66 @@ Einführung in die verschiedenen Ebenen und Komponenten moderner Informationssys
 
 [Modullink](https://www.fhnw.ch/de/studium/module/9813296)
 
-**Inhaltsübersicht**
+#### 1st Level
 
-Ziel des Moduls ist es einerseits die Studierenden mit den für die Informatik typischen und grundlegenden mathematischen Denk- und Argumentationsweisen vertraut zu machen und andererseits konkretes Wissen zu vermitteln, welches Grundlage für praktische Anwendungen und für weitere Module im Verlauf des Studiums ist.
+Das Ziel des Moduls ist es, die Studierenden mit den für die Informatik typischen mathematischen Denkweisen vertraut zu machen und ihnen praxisrelevantes Grundlagenwissen zu vermitteln.
 
-Inhalte:
+#### Most detailed Level
 
-- Mengen und Operationen auf Mengen
+- **Mengen und Operationen auf Mengen**
+  - wissen, was eine Menge ist
+  - können die wichtigsten Operationen auf Mengen durchführen
+    - Schnitt
+    - Vereinigung
+    - Differenz
+    - Potenzmengenbildung
+    - kartesisches Produkt
+
 - **Relationen, Funktionen und Graphen**
   - Relationen
+    - verstehen den Begriff der Relation
+    - können diese auf Reflexivität, Symmetrie, Transitivität und Antisymmetrie untersuchen
+    - können die Komposition zweier Relationen bestimmen
   - Äquivalenz- und Ordnungsrelationen
+    - kennen Äquivalenzrelationen und Ordnungsrelationen
+    - verstehen den Zusammenhang zwischen Äquivalenzrelationen und Partitionen
   - Funktionen und ihre Eigenschaften
+    - können (totale/partielle) Funktionen auf Injektivität, Surjektivität und Bijektivität untersuchen
+    - können gegebenenfalls die Umkehrfunktion bestimmen
   - Eigenschaften von Graphen
+    - kennen die wichtigsten Eigenschaften von (un)gerichteten Graphen
+    - sind in der Lage, Probleme aus der Praxis mit Hilfe von Graphen zu modellieren
   - Modellierung mit Graphen
+
 - **Logik**
   - Aussagenlogik
+    - wissen, was eine Aussage ist
+    - können den Wahrheitsgehalt von zusammengesetzten Aussagen berechnen
+      - Disjunktion
+      - Konjunktion
+      - Negation
+      - Implikation
+      - Äquivalenz
   - Existenz- und Allquantoren
+    - kennen den Existenz- und den Allquantor
+    - können den Wahrheitsgehalt quantifizierter Aussagen bestimmen
+
 - **Sprachen, Grammatiken und Automaten**
   - Produktionsgrammatiken
+    - verstehen Grammatiken und wie man mit ihnen formale Sprachen beschreibt
   - Chomsky-Hierarchie
+    - können Grammatiken und Sprachen gemäss der Chomsky-Hierarchie klassifizieren
   - Endliche Automaten
+    - wissen, was ein DFA ist
+    - kennen den Zusammenhang zu den regulären Sprachen
+    - können zu ausgewählten regulären Sprachen einen DFA konstruieren
   - Endliche Automaten und reguläre Sprachen
 
-**Lernziele**
-
-- **Mengen und Operationen auf Mengen:** Die Studierenden wissen, was eine Menge ist, und können die wichtigsten Operationen auf Mengen (Schnitt, Vereinigung, Differenz, Potenzmengenbildung, kartesisches Produkt) durchführen.
-- **Relationen, Funktionen und Graphen:** Sie verstehen den Begriff der Relation und können diese auf Reflexivität, Symmetrie, Transitivität und Antisymmetrie untersuchen. Sie können die Komposition zweier Relationen bestimmen. Sie kennen Äquivalenzrelationen und Ordnungsrelationen sowie den Zusammenhang zwischen Äquivalenzrelationen und Partitionen. Sie können (totale/partielle) Funktionen auf Injektivität, Surjektivität und Bijektivität untersuchen und gegebenenfalls die Umkehrfunktion bestimmen. Die Studierenden kennen die wichtigsten Eigenschaften von (un)gerichteten Graphen und sind in der Lage, Probleme aus der Praxis mit Hilfe von Graphen zu modellieren.
-- **Logik:** Die Studierenden wissen, was eine Aussage ist, und können den Wahrheitsgehalt von zusammengesetzten Aussagen (Disjunktion, Konjunktion, Negation, Implikation, Äquivalenz) berechnen. Sie kennen den Existenz- und den Allquantor und können den Wahrheitsgehalt quantifizierter Aussagen bestimmen.
-- **Induktion und Rekursion:** Die Studierenden verstehen das Prinzip der vollständigen Induktion und sind in der Lage, Induktionsbeweise zu führen. Sie können lineare homogene sowie einfache inhomogene Rekursionsgleichungen (bis zum Grad 2) lösen. Sie sind fähig, durch Variablentransformation Rekursionsgleichungen zu erhalten und zu lösen, die häufig bei der Analyse von Algorithmen auftreten.
-- **Sprachen und Grammatiken:** Die Studierenden verstehen Grammatiken und wie man mit ihnen formale Sprachen beschreibt. Sie können Grammatiken und Sprachen gemäss der Chomsky-Hierarchie klassifizieren. Sie wissen, was ein DFA ist, kennen den Zusammenhang zu den regulären Sprachen und können zu ausgewählten regulären Sprachen einen DFA konstruieren.
+- **Induktion und Rekursion** (Anwendungen in der Analyse)
+  - verstehen das Prinzip der vollständigen Induktion
+  - sind in der Lage, Induktionsbeweise zu führen
+  - können lineare homogene sowie einfache inhomogene Rekursionsgleichungen (bis zum Grad 2) lösen
+  - sind fähig, durch Variablentransformation Rekursionsgleichungen zu erhalten und zu lösen, die häufig bei der Analyse von Algorithmen auftreten
 
 ---
 
@@ -369,7 +400,7 @@ Themen:
 
 **Lernziele**
 
-Die Studierenden kennen die Technik der Vektor- und Matrix-Algebra und können sie bei drei- und mehrdimensionalen Anwendungen einsetzen. Sie können:
+Die Studierenden verstehen die mathematischen Grundlagen der Informatik und können diese anwenden. Die Studierenden kennen die Technik der Vektor- und Matrix-Algebra und können sie bei drei- und mehrdimensionalen Anwendungen einsetzen. Sie können:
 
 - lineare Gleichungssysteme aufstellen und die Lösungsmenge berechnen
 - Probleme der Raumgeometrie analytisch beschreiben und lösen (Geraden, Ebenen, Kugeln)
