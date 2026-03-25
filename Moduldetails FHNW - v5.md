@@ -367,31 +367,26 @@ Programmieren auf höheren Abstraktionsstufen, dynamische Datenstrukturen und Um
 
 #### Most detailed Level
 
-Inhalte:
-
 - Generische Programmierung
   - von dynamischer Typisierung zu Typparametern
+  - Die Studierenden kennen Vor- und Nachteile von statisch gegenüber dynamisch typisierten Sprachen und können Techniken anwenden, um mit den jeweiligen Nachteilen umzugehen.
+  - Die Studierenden sind in der Lage, generische Programmbausteine zu verstehen, sinnvoll einzusetzen und zu einem gewissen Grad selbst zu entwickeln.
+  - Die Studierenden verstehen insbesondere die Konzepte eines generischen Collection-Frameworks, verstehen zentrale Eigenschaften und Implementationsaspekte wichtiger Collections und können solche gewinnbringend einsetzen.
 - Callbacks,
 - Funktionstypen,
 - Lambda-Ausdrücke,
 - Higher-Order Functions
 - Von Enumerations zu algebraischen Datentypen und Pattern Matching
+  - Die Studierenden kennen das Konzept von algebraischen Datentypen (Produkt- und Summe-Typen) und können eigene solche Typen entwerfen, implementieren und sinnvoll verwenden.
 - Implementation von dynamischen Datenstrukturen und einfachen Algorithmen:
   - verkettete Listen,
   - Bäume,
   - Graphen
 - Anwendungen von Vererbung (z. B. in GUI- oder Collections-Frameworks)
+  - Die Studierenden verstehen Nutzen und Risiken von Vererbung, kennen Alternativen dazu und können das Konzept bedacht einsetzen.
 - Ausnahmebehandlung
 - Aufbau und Verwendung von komplexen Bibliotheken und Frameworks
-
-**Lernziele**
-
-- Die Studierenden kennen Vor- und Nachteile von statisch gegenüber dynamisch typisierten Sprachen und können Techniken anwenden, um mit den jeweiligen Nachteilen umzugehen.
-- Die Studierenden sind in der Lage, generische Programmbausteine zu verstehen, sinnvoll einzusetzen und zu einem gewissen Grad selbst zu entwickeln.
-- Die Studierenden verstehen insbesondere die Konzepte eines generischen Collection-Frameworks, verstehen zentrale Eigenschaften und Implementationsaspekte wichtiger Collections und können solche gewinnbringend einsetzen.
-- Die Studierenden verstehen Nutzen und Risiken von Vererbung, kennen Alternativen dazu und können das Konzept bedacht einsetzen.
-- Die Studierenden kennen das Konzept von algebraischen Datentypen (Produkt- und Summe-Typen) und können eigene solche Typen entwerfen, implementieren und sinnvoll verwenden.
-- Die Studierenden können sich selbstständig in komplexe Libraries und Frameworks einarbeiten und diese zur effektiven Entwicklung eigener Applikationen verwenden.
+  - Die Studierenden können sich selbstständig in komplexe Libraries und Frameworks einarbeiten und diese zur effektiven Entwicklung eigener Applikationen verwenden.
 
 ---
 
@@ -405,38 +400,32 @@ Die Lineare Algebra ist die Grundlage für die Bearbeitung von drei- und mehrdim
 
 #### Most detailed Level
 
-Themen:
-
 - **A. Der n-dimensionale Vektorraum R^n**
 - **B. Lineare Gleichungssysteme**
   - Matrix-Darstellung, Gauss-Algorithmus
   - Stufenform und Rang, Lösungsmenge
+    - Studierende können lineare Gleichungssysteme aufstellen und die Lösungsmenge berechnen
 - **C. Matrix-Algebra**
   - Grundoperationen, Matrizenprodukt
   - inverse Matrix
+    - Studierende kennen die Technik der Vektor- und Matrix-Algebra und können sie bei drei- und mehrdimensionalen Anwendungen einsetzen
+    - Studierende können Berechnungen mit Vektoren und Matrizen numerisch mit MATLAB ausführen
 - **D. Vektor-Geometrie**
   - Freie Vektoren
   - Skalar- und Vektorprodukt
   - Geraden und Ebenen
   - Schnitt- und Abstandsprobleme
   - Spatprodukt und Spatvolumen
+    - Studierende können Probleme der Raumgeometrie analytisch beschreiben und lösen (Geraden, Ebenen, Kugeln)
 - **E. Lineare und affine Abbildungen**
   - Abbildungsmatrizen
   - Drehungen und Translationen
   - Normal- und Zentralprojektion (Perspektive)
   - Spiegelung an einer Ebene
+    - Studierende können lineare und affine Punkttransformationen verwenden (Drehung, Translation, Spiegelung, Normal- und Zentralprojektion (Perspektive))
 - **F. Ergänzungen**
   - Determinanten
   - Einführung der komplexen Zahlen
   - Ausblick auf allgemeine Vektorräume und Unterräume
-
-**Lernziele**
-
-Die Studierenden verstehen die mathematischen Grundlagen der Informatik und können diese anwenden. Die Studierenden kennen die Technik der Vektor- und Matrix-Algebra und können sie bei drei- und mehrdimensionalen Anwendungen einsetzen. Sie können:
-
-- lineare Gleichungssysteme aufstellen und die Lösungsmenge berechnen
-- Probleme der Raumgeometrie analytisch beschreiben und lösen (Geraden, Ebenen, Kugeln)
-- lineare und affine Punkttransformationen verwenden (Drehung, Translation, Spiegelung, Normal- und Zentralprojektion (Perspektive))
-- Berechnungen mit Vektoren und Matrizen numerisch mit MATLAB ausführen
-
-Sie kennen die Grundlagen der komplexen Zahlen (für das Studium von weiterführenden Themen, z.B. Eigenwerttheorie). Sie sind befähigt, weiterführende Module zu besuchen (Computergraphik, Bildverarbeitung, Physik für Computerspiele, weitere Mathematik-Module, usw.)
+    - Studierende kennen die Grundlagen der komplexen Zahlen (für das Studium von weiterführenden Themen, z.B. Eigenwerttheorie)
+    - Studierende sind befähigt, weiterführende Module zu besuchen (Computergraphik, Bildverarbeitung, Physik für Computerspiele, weitere Mathematik-Module, usw.)
