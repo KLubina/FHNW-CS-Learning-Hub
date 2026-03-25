@@ -270,7 +270,7 @@ Sie lernen, ein kleines, aber vollständiges Softwareprojekt umzusetzen, vom Pro
 - und können dieses Vorgehensmodell in einem eigenen Softwareprojekt anwenden.
 - Die Studierenden verstehen den Nutzen verschiedener Arten von Prototyping
 - und können auf der Erfahrung von mindestens einer davon aufbauen.
-- Die Studierenden können sich mithilfe von Online-Ressourcen, ihrer Entwicklungsumgebung und KI-Werkzeugen ein Verständnis für neue Inhalte aneignen,
+- Die Studierenden können sich mithilfe von Online-Ressourcen, ihrer Entwicklungsumgebung und KI-Werkzeugen ein Verständnis für neue Inhalte aneignen:
   - Verwendung von neuen Programmkonstrukten
   - Libraries
   - Werkzeugen
@@ -381,10 +381,17 @@ Programmieren auf höheren Abstraktionsstufen, dynamische Datenstrukturen und Um
 
 Inhalte:
 
-- Generische Programmierung: von dynamischer Typisierung zu Typparametern
-- Callbacks, Funktionstypen, Lambda-Ausdrücke, Higher-Order Functions
+- Generische Programmierung
+  - von dynamischer Typisierung zu Typparametern
+- Callbacks,
+- Funktionstypen,
+- Lambda-Ausdrücke,
+- Higher-Order Functions
 - Von Enumerations zu algebraischen Datentypen und Pattern Matching
-- Implementation von dynamischen Datenstrukturen und einfachen Algorithmen: verkettete Listen, Bäume, Graphen
+- Implementation von dynamischen Datenstrukturen und einfachen Algorithmen:
+  - verkettete Listen,
+  - Bäume,
+  - Graphen
 - Anwendungen von Vererbung (z. B. in GUI- oder Collections-Frameworks)
 - Ausnahmebehandlung
 - Aufbau und Verwendung von komplexen Bibliotheken und Frameworks
