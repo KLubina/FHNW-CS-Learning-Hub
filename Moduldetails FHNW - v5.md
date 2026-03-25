@@ -266,9 +266,15 @@ Sie lernen, ein kleines, aber vollständiges Softwareprojekt umzusetzen, vom Pro
 
 #### Most detailed Level
 
-- Die Studierenden kennen Vorteile von inkrementeller Entwicklung und können dieses Vorgehensmodell in einem eigenen Softwareprojekt anwenden.
-- Die Studierenden verstehen den Nutzen verschiedener Arten von Prototyping und können auf der Erfahrung von mindestens einer davon aufbauen.
-- Die Studierenden können sich mithilfe von Online-Ressourcen, ihrer Entwicklungsumgebung und KI-Werkzeugen ein Verständnis für neue Inhalte aneignen, zum Beispiel die Verwendung von neuen Programmkonstrukten, Libraries, Werkzeugen oder sogar Programmiersprachen.
+- Die Studierenden kennen Vorteile von inkrementeller Entwicklung
+- und können dieses Vorgehensmodell in einem eigenen Softwareprojekt anwenden.
+- Die Studierenden verstehen den Nutzen verschiedener Arten von Prototyping
+- und können auf der Erfahrung von mindestens einer davon aufbauen.
+- Die Studierenden können sich mithilfe von Online-Ressourcen, ihrer Entwicklungsumgebung und KI-Werkzeugen ein Verständnis für neue Inhalte aneignen,
+  - Verwendung von neuen Programmkonstrukten
+  - Libraries
+  - Werkzeugen
+  - sogar Programmiersprachen.
 - Die Studierenden können anhand ihres Projekts Zusammenhänge zwischen den Inhalten der Grundlagenmodulen erklären.
 - Die Studierenden können ihre persönliche Motivation für das Informatikstudium und gegebenenfalls für eine Studienrichtung anhand ihres Projekts darlegen.
 
@@ -280,14 +286,15 @@ Sie lernen, ein kleines, aber vollständiges Softwareprojekt umzusetzen, vom Pro
 
 #### 1st Level
 
-Das Modul System Engineering soll sämtliche Grundlagen vermitteln, um Systeme rudimentär zu entwerfen und zu betreiben. Studierende sollen nach Abschluss des Moduls die Fähigkeiten besitzen, Computersysteme vollumfänglich zu installieren und administrieren zu können, anhand moderner Engineering-Prinzipien.
+Computersysteme vollumfänglich zu installieren und administrieren zu können.
 
 #### Most detailed Level
 
 Inhalte:
 
 - Konzeptionellen Aufbau von (Betriebs)systemen
-- Praktische Administration von Systemen am Beispiel Linux
+- Praktische Administration von Systemen
+  - Beispiel Linux
 - Automatisieren von wiederkehrenden Aufgaben auf Systemebene
 - Grundlegender Sicherheitsaspekte von Systemen
 - Fundiertes Verständnis im Bereich Netzwerke
@@ -298,10 +305,30 @@ Inhalte:
 Die Studierenden können sicher Server installieren und administrieren:
 
 - Konzeptionelle Grundlagen und Komponenten moderner Computersysteme werden verstanden
-- Scripte und Befehle zur erweiterten Systemadministration und zur Automatisierung bspw. Prozesse, Services, Usermanagement können angewendet werden
-- Verstehen von Computernetzwerkwerken bspw. (IP-Adressen, DNS, Router, Subnetting,) OSI-Layer, Protokolle (TCP/UDP/Quic), Vlans, DHCP, IPv6, NAT, Basic Firewall.
-- Anwenden von verschiedenen Technologien zur Datenspeicherung (File, Block, Filesysteme, etc.)
-- Verschiedene anwendbare Sicherheitsmechanismen für Systeme wie SSL, SSH, Hashing können angewendet werden.
+- Scripte und Befehle zur erweiterten Systemadministration und zur Automatisierung können angewendet werden
+  - bspw. Prozesse,
+  - Services,
+  - Usermanagement
+- Verstehen von Computernetzwerkwerken
+  - bspw. (IP-Adressen,
+  - DNS,
+  - Router,
+  - Subnetting,)
+  - OSI-Layer,
+  - Protokolle (TCP/UDP/Quic),
+  - Vlans,
+  - DHCP,
+  - IPv6,
+  - NAT,
+  - Basic Firewall.
+- Anwenden von verschiedenen Technologien zur Datenspeicherung
+  - (File,
+  - Block,
+  - Filesysteme, etc.)
+- Verschiedene anwendbare Sicherheitsmechanismen für Systeme wie
+  - SSL,
+  - SSH,
+  - Hashing können angewendet werden.
 - Anwenden von Containerisierungslösungen zum Bereitstellen von verschiedenen Services
 
 ---
@@ -312,7 +339,7 @@ Die Studierenden können sicher Server installieren und administrieren:
 
 #### 1st Level
 
-Studierende lernen in diesem Modul die Grundlagen für die implizite Instruktion von Computern mit Beispielen, das heisst mit Trainingsdaten anstelle von expliziten Instruktionen. Sie lernen Daten zu visualisieren und zu beschreiben, simple Machine-Learning-Modelle zu bauen, prätrainierte (Sprach-)Modelle einzusetzen und zu evaluieren.
+Sie lernen Daten zu visualisieren und zu beschreiben. Ebenfalls lernen Sie simple Machine-Learning-Modelle zu bauen, prätrainierte (Sprach-)Modelle einzusetzen und zu evaluieren.
 
 #### Most detailed Level
 
@@ -321,6 +348,7 @@ Inhalte:
 - Daten umfassend qualitativ und quantitativ beschreiben
 - Daten adäquat wissenschaftlich visualisieren
 - Daten explorieren, Hypothesen formulieren und untersuchen
+
 - Konzepte der Modellierung und Methodik bei der impliziten Instruktion von Computern / Machine Learning
 - Evaluation von Machine-Learning-Modellen
 - Techniken des Prompt Engineering für Large Language Models (LLMs)
@@ -334,6 +362,7 @@ Inhalte:
 - Studierende wissen, wie Daten wissenschaftlich adäquat visualisiert werden und können Plots erstellen, die gezielt bestimmte Einsichten ermöglichen
 - Studierende verstehen es, Daten qualitativ und quantitativ präzis zu beschreiben
 - Studierende kennen die Prinzipien der Daten-basierten Instruktion von Computern und können entsprechende Programme sinnvoll evaluieren und vergleichen
+
 - Studierende könne LLMs mittels gezieltem Prompt Engineering instruieren
 - Studierende verstehen es, die Ausgabe von LLMs zu evaluieren und kritisch zu prüfen
 - Studierende können LLMs in Programme einbinden und so Aufgaben automatisieren
@@ -346,7 +375,7 @@ Inhalte:
 
 #### 1st Level
 
-Dieses Modul baut auf Programmieren 1 auf und geht in drei Bereichen in die Tiefe: Programmieren auf höheren Abstraktionsstufen, dynamische Datenstrukturen und Umgang mit komplexen Bibliotheken und Frameworks.
+Programmieren auf höheren Abstraktionsstufen, dynamische Datenstrukturen und Umgang mit komplexen Bibliotheken und Frameworks.
 
 #### Most detailed Level
 
@@ -377,7 +406,7 @@ Inhalte:
 
 #### 1st Level
 
-Die Lineare Algebra ist die Grundlage für die Bearbeitung von drei- und mehrdimensionalen Problemen aus diversen Gebieten wie Raumgeometrie, 3D Graphik, Astronomie, Mechanik, Elektrodynamik, PageRanking (Internet) usw. Die Technik der Linearen Algebra verwendet Vektoren, Matrizen, Gleichungssysteme und lineare Abbildungen.
+Die Lineare Algebra ist die Grundlage für die Bearbeitung von drei- und mehrdimensionalen Problemen (z.B. wie Raumgeometrie, 3D Graphik, Astronomie, Mechanik, Elektrodynamik, PageRanking (Internet) usw.)
 
 #### Most detailed Level
 
