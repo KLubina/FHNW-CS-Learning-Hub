@@ -293,43 +293,39 @@ Computersysteme vollumfänglich zu installieren und administrieren zu können.
 Inhalte:
 
 - Konzeptionellen Aufbau von (Betriebs)systemen
+  - Konzeptionelle Grundlagen und Komponenten moderner Computersysteme werden verstanden
 - Praktische Administration von Systemen
+  - Die Studierenden können sicher Server installieren und administrieren
   - Beispiel Linux
 - Automatisieren von wiederkehrenden Aufgaben auf Systemebene
+  - Scripte und Befehle zur erweiterten Systemadministration und zur Automatisierung können angewendet werden
+    - bspw. Prozesse,
+    - Services,
+    - Usermanagement
 - Grundlegender Sicherheitsaspekte von Systemen
+  - Verschiedene anwendbare Sicherheitsmechanismen für Systeme wie
+    - SSL,
+    - SSH,
+    - Hashing können angewendet werden.
 - Fundiertes Verständnis im Bereich Netzwerke
-- Grundlagen im Bereich Containerisierung
-
-**Lernziele**
-
-Die Studierenden können sicher Server installieren und administrieren:
-
-- Konzeptionelle Grundlagen und Komponenten moderner Computersysteme werden verstanden
-- Scripte und Befehle zur erweiterten Systemadministration und zur Automatisierung können angewendet werden
-  - bspw. Prozesse,
-  - Services,
-  - Usermanagement
-- Verstehen von Computernetzwerkwerken
-  - bspw. (IP-Adressen,
-  - DNS,
-  - Router,
-  - Subnetting,)
-  - OSI-Layer,
-  - Protokolle (TCP/UDP/Quic),
-  - Vlans,
-  - DHCP,
-  - IPv6,
-  - NAT,
-  - Basic Firewall.
+  - Verstehen von Computernetzwerkwerken
+    - bspw. (IP-Adressen,
+    - DNS,
+    - Router,
+    - Subnetting,)
+    - OSI-Layer,
+    - Protokolle (TCP/UDP/Quic),
+    - Vlans,
+    - DHCP,
+    - IPv6,
+    - NAT,
+    - Basic Firewall.
 - Anwenden von verschiedenen Technologien zur Datenspeicherung
   - (File,
   - Block,
   - Filesysteme, etc.)
-- Verschiedene anwendbare Sicherheitsmechanismen für Systeme wie
-  - SSL,
-  - SSH,
-  - Hashing können angewendet werden.
-- Anwenden von Containerisierungslösungen zum Bereitstellen von verschiedenen Services
+- Grundlagen im Bereich Containerisierung
+  - Anwenden von Containerisierungslösungen zum Bereitstellen von verschiedenen Services
 
 ---
 
