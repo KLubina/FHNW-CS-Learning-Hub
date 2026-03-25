@@ -290,8 +290,6 @@ Computersysteme vollumfänglich zu installieren und administrieren zu können.
 
 #### Most detailed Level
 
-Inhalte:
-
 - Konzeptionellen Aufbau von (Betriebs)systemen
   - Konzeptionelle Grundlagen und Komponenten moderner Computersysteme werden verstanden
 - Praktische Administration von Systemen
@@ -339,29 +337,23 @@ Sie lernen Daten zu visualisieren und zu beschreiben. Ebenfalls lernen Sie simpl
 
 #### Most detailed Level
 
-Inhalte:
-
+- Studierende können Daten laden und explorieren
 - Daten umfassend qualitativ und quantitativ beschreiben
+  - Studierende wissen, wie Daten wissenschaftlich adäquat visualisiert werden und können Plots erstellen, die gezielt bestimmte Einsichten ermöglichen
+  - Studierende verstehen es, Daten qualitativ und quantitativ präzis zu beschreiben
 - Daten adäquat wissenschaftlich visualisieren
 - Daten explorieren, Hypothesen formulieren und untersuchen
+- Studierende kennen die Prinzipien der Daten-basierten Instruktion von Computern und können entsprechende Programme sinnvoll evaluieren und vergleichen
 
 - Konzepte der Modellierung und Methodik bei der impliziten Instruktion von Computern / Machine Learning
+  - Studierende könne LLMs mittels gezieltem Prompt Engineering instruieren
 - Evaluation von Machine-Learning-Modellen
 - Techniken des Prompt Engineering für Large Language Models (LLMs)
 - Zero- und Few-Shot-Learning mit LLMs
 - Automation mit LLMs
+  - Studierende können LLMs in Programme einbinden und so Aufgaben automatisieren
 - Evaluation von LLM-basierten Lösungen
-
-**Lernziele**
-
-- Studierende können Daten laden und explorieren
-- Studierende wissen, wie Daten wissenschaftlich adäquat visualisiert werden und können Plots erstellen, die gezielt bestimmte Einsichten ermöglichen
-- Studierende verstehen es, Daten qualitativ und quantitativ präzis zu beschreiben
-- Studierende kennen die Prinzipien der Daten-basierten Instruktion von Computern und können entsprechende Programme sinnvoll evaluieren und vergleichen
-
-- Studierende könne LLMs mittels gezieltem Prompt Engineering instruieren
-- Studierende verstehen es, die Ausgabe von LLMs zu evaluieren und kritisch zu prüfen
-- Studierende können LLMs in Programme einbinden und so Aufgaben automatisieren
+  - Studierende verstehen es, die Ausgabe von LLMs zu evaluieren und kritisch zu prüfen
 
 ---
 
