@@ -18,15 +18,15 @@ Systematisch Programme zum Lösen von Problemen entwickeln.
 
 - Die Studierenden können:
   - Probleme analysieren
+  - Problem beschreiben
   - mit Techniken ein Lösungsverfahren finden
+    - Fortgeschrittene Problemlösetechniken (wie Stepwise Refinement)
+    - Collections
     - Programmiermustern
     - Standardalgorithmen
-    - Collections
-    - Fortgeschrittene Problemlösetechniken (wie Stepwise Refinement) und Programmiermuster
-    - Ausgewählte Such- und Sortieralgorithmen für Arrays
+          - Ausgewählte Such- und Sortieralgorithmen für Arrays
     - Laufzeit- und Speicherplatzanalyse, O-Notation
     - Rekursion
-  - Problem beschreiben
   - schliesslich in einer Programmiersprache formulieren.
 
 - Dabei um effiziente Lösungen zu finden und Fehler zu vermeiden verwenden Sie:
@@ -162,45 +162,52 @@ Das Ziel des Moduls ist es, die Studierenden mit den für die Informatik typisch
 
 #### Most detailed Level
 
-- **Mengen und Operationen auf Mengen**
-  - wissen, was eine Menge ist
-  - können die wichtigsten Operationen auf Mengen durchführen
-    - Schnitt
-    - Vereinigung
-    - Differenz
-    - Potenzmengenbildung
-    - kartesisches Produkt
+- **Diskrete Mathematik**
+  - **Mengen und Operationen auf Mengen**
+    - wissen, was eine Menge ist
+    - können die wichtigsten Operationen auf Mengen durchführen
+      - Schnitt
+      - Vereinigung
+      - Differenz
+      - Potenzmengenbildung
+      - kartesisches Produkt
 
-- **Relationen, Funktionen und Graphen**
-  - Relationen
-    - verstehen den Begriff der Relation
-    - können diese auf Reflexivität, Symmetrie, Transitivität und Antisymmetrie untersuchen
-    - können die Komposition zweier Relationen bestimmen
-  - Äquivalenz- und Ordnungsrelationen
-    - kennen Äquivalenzrelationen und Ordnungsrelationen
-    - verstehen den Zusammenhang zwischen Äquivalenzrelationen und Partitionen
-  - Funktionen und ihre Eigenschaften
-    - können (totale/partielle) Funktionen auf Injektivität, Surjektivität und Bijektivität untersuchen
-    - können gegebenenfalls die Umkehrfunktion bestimmen
-  - Eigenschaften von Graphen
-    - kennen die wichtigsten Eigenschaften von (un)gerichteten Graphen
-    - sind in der Lage, Probleme aus der Praxis mit Hilfe von Graphen zu modellieren
-  - Modellierung mit Graphen
+  - **Relationen, Funktionen und Graphen**
+    - Relationen
+      - verstehen den Begriff der Relation
+      - können diese auf Reflexivität, Symmetrie, Transitivität und Antisymmetrie untersuchen
+      - können die Komposition zweier Relationen bestimmen
+    - Äquivalenz- und Ordnungsrelationen
+      - kennen Äquivalenzrelationen und Ordnungsrelationen
+      - verstehen den Zusammenhang zwischen Äquivalenzrelationen und Partitionen
+    - Funktionen und ihre Eigenschaften
+      - können (totale/partielle) Funktionen auf Injektivität, Surjektivität und Bijektivität untersuchen
+      - können gegebenenfalls die Umkehrfunktion bestimmen
+    - Eigenschaften von Graphen
+      - kennen die wichtigsten Eigenschaften von (un)gerichteten Graphen
+      - sind in der Lage, Probleme aus der Praxis mit Hilfe von Graphen zu modellieren
+    - Modellierung mit Graphen
 
-- **Logik**
-  - Aussagenlogik
-    - wissen, was eine Aussage ist
-    - können den Wahrheitsgehalt von zusammengesetzten Aussagen berechnen
-      - Disjunktion
-      - Konjunktion
-      - Negation
-      - Implikation
-      - Äquivalenz
-  - Existenz- und Allquantoren
-    - kennen den Existenz- und den Allquantor
-    - können den Wahrheitsgehalt quantifizierter Aussagen bestimmen
+  - **Logik**
+    - Aussagenlogik
+      - wissen, was eine Aussage ist
+      - können den Wahrheitsgehalt von zusammengesetzten Aussagen berechnen
+        - Disjunktion
+        - Konjunktion
+        - Negation
+        - Implikation
+        - Äquivalenz
+    - Existenz- und Allquantoren
+      - kennen den Existenz- und den Allquantor
+      - können den Wahrheitsgehalt quantifizierter Aussagen bestimmen
 
-- **Sprachen, Grammatiken und Automaten**
+  - **Induktion und Rekursion** (Anwendungen in der Analyse)
+    - verstehen das Prinzip der vollständigen Induktion
+    - sind in der Lage, Induktionsbeweise zu führen
+    - können lineare homogene sowie einfache inhomogene Rekursionsgleichungen (bis zum Grad 2) lösen
+    - sind fähig, durch Variablentransformation Rekursionsgleichungen zu erhalten und zu lösen, die häufig bei der Analyse von Algorithmen auftreten
+
+- **Einführung in die theoretische Informatik**
   - Produktionsgrammatiken
     - verstehen Grammatiken und wie man mit ihnen formale Sprachen beschreibt
   - Chomsky-Hierarchie
@@ -210,12 +217,6 @@ Das Ziel des Moduls ist es, die Studierenden mit den für die Informatik typisch
     - kennen den Zusammenhang zu den regulären Sprachen
     - können zu ausgewählten regulären Sprachen einen DFA konstruieren
   - Endliche Automaten und reguläre Sprachen
-
-- **Induktion und Rekursion** (Anwendungen in der Analyse)
-  - verstehen das Prinzip der vollständigen Induktion
-  - sind in der Lage, Induktionsbeweise zu führen
-  - können lineare homogene sowie einfache inhomogene Rekursionsgleichungen (bis zum Grad 2) lösen
-  - sind fähig, durch Variablentransformation Rekursionsgleichungen zu erhalten und zu lösen, die häufig bei der Analyse von Algorithmen auftreten
 
 ---
 
@@ -337,14 +338,16 @@ Sie lernen Daten zu visualisieren und zu beschreiben. Ebenfalls lernen Sie simpl
 
 #### Most detailed Level
 
-- Studierende können Daten laden und explorieren
-- Daten umfassend qualitativ und quantitativ beschreiben
-  - Studierende wissen, wie Daten wissenschaftlich adäquat visualisiert werden und können Plots erstellen, die gezielt bestimmte Einsichten ermöglichen
-  - Studierende verstehen es, Daten qualitativ und quantitativ präzis zu beschreiben
-- Daten adäquat wissenschaftlich visualisieren
-- Daten explorieren, Hypothesen formulieren und untersuchen
-- Studierende kennen die Prinzipien der Daten-basierten Instruktion von Computern und können entsprechende Programme sinnvoll evaluieren und vergleichen
+- **Data**
+  - Studierende können Daten laden und explorieren
+  - Daten umfassend qualitativ und quantitativ beschreiben
+    - Studierende wissen, wie Daten wissenschaftlich adäquat visualisiert werden und können Plots erstellen, die gezielt bestimmte Einsichten ermöglichen
+    - Studierende verstehen es, Daten qualitativ und quantitativ präzis zu beschreiben
+  - Daten adäquat wissenschaftlich visualisieren
+  - Daten explorieren, Hypothesen formulieren und untersuchen
+  - Studierende kennen die Prinzipien der Daten-basierten Instruktion von Computern und können entsprechende Programme sinnvoll evaluieren und vergleichen
 
+- **AI**
 - Konzepte der Modellierung und Methodik bei der impliziten Instruktion von Computern / Machine Learning
   - Studierende könne LLMs mittels gezieltem Prompt Engineering instruieren
 - Evaluation von Machine-Learning-Modellen
