@@ -16,11 +16,12 @@ Systematisch Programme zum Lösen von Problemen entwickeln.
 
 #### Most detailed Level
 
-- Probleme lösen
+- Probleme mittels Programmierung lösen
   - Probleme analysieren
   - Problem beschreiben
   - mit Techniken ein Lösungsverfahren finden
-    - Fortgeschrittene Problemlösetechniken (wie Stepwise Refinement)
+    - Fortgeschrittene Problemlösetechniken
+      - wie Stepwise Refinement
     - Collections
     - Programmiermustern
     - Standardalgorithmen
@@ -29,7 +30,7 @@ Systematisch Programme zum Lösen von Problemen entwickeln.
     - Rekursion
   - schliesslich in einer Programmiersprache formulieren.
 
-- Programme verstehen
+- vorgegebene Programme verstehen
   - Programme lesen
   - Programme analysieren
   - Programme nachvollziehen
