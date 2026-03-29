@@ -114,7 +114,7 @@ Grundlegende Konzepte, Aufgaben und Methoden des Entwicklungprozesses von Softwa
 
 #### 1st Level
 
-Grundlagen von User-centred Design mit den Prinzipien des Requirements Engineering und führt in Spatial Computing ein.
+Grundlagen von User-centred Design mit den Prinzipien des Requirements Engineering und Einführung in Spatial Computing.
 
 #### Most detailed Level
 
@@ -169,7 +169,7 @@ Grundlagen von User-centred Design mit den Prinzipien des Requirements Engineeri
 
 #### 1st Level
 
-Einführung in die verschiedenen Ebenen und Komponenten moderner Informationssysteme
+Einführung in die verschiedenen Ebenen und Komponenten moderner Informationssysteme.
 
 #### Most detailed Level
 
@@ -205,7 +205,7 @@ Einführung in die verschiedenen Ebenen und Komponenten moderner Informationssys
 
 #### 1st Level
 
-Das Ziel des Moduls ist es, die Studierenden mit den für die Informatik typischen mathematischen Denkweisen vertraut zu machen und ihnen praxisrelevantes Grundlagenwissen zu vermitteln.
+Studierenden mit den für die Informatik typischen mathematischen Denkweisen vertraut zu machen.
 
 #### Most detailed Level
 
@@ -222,13 +222,21 @@ Das Ziel des Moduls ist es, die Studierenden mit den für die Informatik typisch
   - **Relationen, Funktionen und Graphen**
     - Relationen
       - verstehen den Begriff der Relation
-      - können diese auf Reflexivität, Symmetrie, Transitivität und Antisymmetrie untersuchen
+      - Relation auf folgendes untersuchen:
+        - Reflexivität
+        - Symmetrie
+        - Transitivität
+        - Antisymmetrie
       - können die Komposition zweier Relationen bestimmen
     - Äquivalenz- und Ordnungsrelationen
-      - kennen Äquivalenzrelationen und Ordnungsrelationen
+      - kennen Äquivalenzrelationen
+      - kennen Ordnungsrelationen
       - verstehen den Zusammenhang zwischen Äquivalenzrelationen und Partitionen
     - Funktionen und ihre Eigenschaften
-      - können (totale/partielle) Funktionen auf Injektivität, Surjektivität und Bijektivität untersuchen
+      - können (totale/partielle) Funktionen untersuchen auf:
+        - Injektivität
+        - Surjektivität
+        - Bijektivität
       - können gegebenenfalls die Umkehrfunktion bestimmen
     - Eigenschaften von Graphen
       - kennen die wichtigsten Eigenschaften von (un)gerichteten Graphen
@@ -248,11 +256,15 @@ Das Ziel des Moduls ist es, die Studierenden mit den für die Informatik typisch
       - kennen den Existenz- und den Allquantor
       - können den Wahrheitsgehalt quantifizierter Aussagen bestimmen
 
-  - **Induktion und Rekursion** (Anwendungen in der Analyse)
-    - verstehen das Prinzip der vollständigen Induktion
-    - sind in der Lage, Induktionsbeweise zu führen
-    - können lineare homogene sowie einfache inhomogene Rekursionsgleichungen (bis zum Grad 2) lösen
-    - sind fähig, durch Variablentransformation Rekursionsgleichungen zu erhalten und zu lösen, die häufig bei der Analyse von Algorithmen auftreten
+  - **Induktion und Rekursion**
+    - **Induktion**
+      - verstehen das Prinzip der vollständigen Induktion
+      - sind in der Lage, Induktionsbeweise zu führen
+    - **Rekursion**
+      - können lineare homogene Rekursionsgleichungen (bis zum Grad 2) lösen
+      - können einfache inhomogene Rekursionsgleichungen (bis zum Grad 2) lösen
+      - können durch Variablentransformation Rekursionsgleichungen erhalten
+      - können diese lösen; solche Gleichungen treten häufig in der Algorithmusanalyse auf
 
 - **Einführung in die theoretische Informatik**
   - Produktionsgrammatiken
