@@ -284,30 +284,6 @@ Studierenden mit den für die Informatik typischen mathematischen Denkweisen ver
 
 ---
 
-### Individuelles Softwareprojekte
-
-[Modullink](https://www.fhnw.ch/de/studium/module/9795668)
-
-#### 1st Level
-
-Sie lernen, ein kleines, aber vollständiges Softwareprojekt umzusetzen, vom Prototyping über die Implementation bis zum Betrieb.
-
-#### Most detailed Level
-
-- Die Studierenden kennen Vorteile von inkrementeller Entwicklung
-- und können dieses Vorgehensmodell in einem eigenen Softwareprojekt anwenden.
-- Die Studierenden verstehen den Nutzen verschiedener Arten von Prototyping
-- und können auf der Erfahrung von mindestens einer davon aufbauen.
-- Die Studierenden können sich mithilfe von Online-Ressourcen, ihrer Entwicklungsumgebung und KI-Werkzeugen ein Verständnis für neue Inhalte aneignen:
-  - Verwendung von neuen Programmkonstrukten
-  - Libraries
-  - Werkzeugen
-  - sogar Programmiersprachen.
-- Die Studierenden können anhand ihres Projekts Zusammenhänge zwischen den Inhalten der Grundlagenmodulen erklären.
-- Die Studierenden können ihre persönliche Motivation für das Informatikstudium und gegebenenfalls für eine Studienrichtung anhand ihres Projekts darlegen.
-
----
-
 ### Programmieren 2
 
 [Modullink](https://www.fhnw.ch/de/studium/module/9794384)
@@ -367,22 +343,26 @@ Computersysteme vollumfänglich zu installieren und administrieren zu können.
 
 #### Most detailed Level
 
-- Konzeptionellen Aufbau von (Betriebs)systemen
+- **Betriebssysteme**
   - Konzeptionelle Grundlagen und Komponenten moderner Computersysteme werden verstanden
-- Praktische Administration von Systemen
+
+- **Administration**
   - Die Studierenden können sicher Server installieren und administrieren
   - Beispiel Linux
-- Automatisieren von wiederkehrenden Aufgaben auf Systemebene
+
+- **Automatisierung**
   - Scripte und Befehle zur erweiterten Systemadministration und zur Automatisierung können angewendet werden
     - bspw. Prozesse,
     - Services,
     - Usermanagement
-- Grundlegender Sicherheitsaspekte von Systemen
+
+- **Sicherheit**
   - Verschiedene anwendbare Sicherheitsmechanismen für Systeme wie
     - SSL,
     - SSH,
     - Hashing können angewendet werden.
-- Fundiertes Verständnis im Bereich Netzwerke
+
+- **Netzwerk**
   - Verstehen von Computernetzwerkwerken
     - bspw. (IP-Adressen,
     - DNS,
@@ -395,9 +375,11 @@ Computersysteme vollumfänglich zu installieren und administrieren zu können.
     - IPv6,
     - NAT,
     - Basic Firewall.
-- Anwenden von verschiedenen Technologien zur Datenspeicherung
+
+- **Datenspeicherung**
   - (File,
   - Block,
   - Filesysteme, etc.)
-- Grundlagen im Bereich Containerisierung
+
+- **Containerisierung**
   - Anwenden von Containerisierungslösungen zum Bereitstellen von verschiedenen Services
