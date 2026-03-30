@@ -16,33 +16,12 @@ Systematisch Programme zum Lösen von Problemen entwickeln.
 
 #### Most detailed Level
 
-- Probleme mittels Programmierung lösen
-  - Probleme analysieren
-  - Problem beschreiben
-  - mit Techniken ein Lösungsverfahren finden
-    - Fortgeschrittene Problemlösetechniken
-      - wie Stepwise Refinement
-    - Collections
-    - Programmiermustern
-    - Standardalgorithmen
-      - Ausgewählte Such- und Sortieralgorithmen für Arrays
-    - Laufzeit- und Speicherplatzanalyse, O-Notation
-    - Rekursion
-  - schliesslich in einer Programmiersprache formulieren.
-
-- vorgegebene Programme verstehen
-  - Programme lesen
-  - Programme analysieren
-  - Programme nachvollziehen
-  - die Sinnhaftigkeit von Programme erklären
-  - Programme in Frage stellen.
-  - erkennen grundlege Muster und Algorithmen
-
-- objektorientierte Programmierung
-  - grundlegende Konzepte
+- **objektorientierte Programmierung**
+  - grundlegende Konzepte der Programmierung
     - Datentypen
     - Variabeln
     - Methoden
+  - grundlegende Konzepte des OOP
     - state vs. behaviour
     - Kapselung
     - Abstraktion
@@ -59,14 +38,36 @@ Systematisch Programme zum Lösen von Problemen entwickeln.
     - Polymorphie
   - Grundlegende Collection-Typen
 
-- Code-Qualität:
+- **Probleme mittels Programmierung lösen**
+  - Probleme analysieren
+  - Problem beschreiben
+  - mit Techniken ein Lösungsverfahren finden
+    - Fortgeschrittene Problemlösetechniken
+      - wie Stepwise Refinement
+    - Collections
+    - Programmiermustern
+    - Standardalgorithmen
+      - Ausgewählte Such- und Sortieralgorithmen für Arrays
+    - Laufzeit- und Speicherplatzanalyse, O-Notation
+    - Rekursion
+  - schliesslich in einer Programmiersprache formulieren.
+
+- **vorgegebene Programme verstehen**
+  - Programme lesen
+  - Programme analysieren
+  - Programme nachvollziehen
+  - die Sinnhaftigkeit von Programme erklären
+  - Programme in Frage stellen.
+  - erkennen grundlege Muster und Algorithmen
+
+- **Code-Qualität**
   - Vor- und Nachbedingungen
   - Invarianten
   - Exceptions
   - Clean-Code
   - Testing-Grundlagen
 
-- visuelle Darstellungen
+- **visuelle Darstellungen**
   - Objekt-,
   - Klassen-
   - Sequenzdiagrammen.
@@ -85,23 +86,23 @@ Grundlegende Konzepte, Aufgaben und Methoden des Entwicklungprozesses von Softwa
 
 #### Most detailed Level
 
-- **Requirements Engineering:**
+- **Requirements Engineering**
   - Anforderungen erheben und analysieren
   - Probleme analysieren & modellieren
   - Projektaufgaben des Requirmenets Engineering übernehmen
-- **System Design:**
+- **System Design**
   - Softwarespezifische Herausforderungen erkennen
   - Rollen & Prozesse verstehen
     - Entwicklungstechniken anwenden
   - Modellierung
     - Problem- und Lösungsmodelle erstellen
     - Komplexität handhaben & abstrahieren
-- **Coding:**
+- **Programmierung**
   - Systementwürfe umsetzen
     - Projektaufgaben als Coder übernehmen
     - Methoden & Techniken anwenden
   - Engineering-Werkzeuge kennen
-- **Testing:**
+- **Testing**
   - Teststrategien anwenden
     - Qualitätssicherung unterstützen
     - Grundkonzepte des Software Engineering kennen
@@ -118,7 +119,7 @@ Grundlagen von User-centred Design mit den Prinzipien des Requirements Engineeri
 
 #### Most detailed Level
 
-- **User-centred Design:**
+- **User-centred Design**
   - Bedürfnisse der Nutzenden kennenlernen
     - komplexen Nutzungskontext analysieren
     - Nutzungskontextgerechte Interaktions- und Dialogkonzepte entwerfen.
@@ -127,7 +128,7 @@ Grundlagen von User-centred Design mit den Prinzipien des Requirements Engineeri
     - Werkzeuge für Gestaltungsvarianten und Prototypen einsetzen.
     - Gestaltungsvarianten und Prototypen bewerten.
     - Grafische UIs und Interaktionslösungen implementieren.
-- **Requirements Engineering:**
+- **Requirements Engineering**
   - Überzeugende Produktvision entwickeln,
     - Produktvisionen per Online-Recherche und Kreativität entwerfen.
   - Software nach Stand der Technik spezifizieren
@@ -149,7 +150,7 @@ Grundlagen von User-centred Design mit den Prinzipien des Requirements Engineeri
         - Funktionen
         - Anforderungen
         - Releasepläne
-- **Einführung in Visual und Spatial Computing:**
+- **Einführung in Visual und Spatial Computing**
   - Überblick Visual Computing
     - Konzepte des Visual und Spatial Computing verstehen.
   - Grundlagen Bildgebung und Grafik
@@ -317,25 +318,37 @@ Programmieren auf höheren Abstraktionsstufen, dynamische Datenstrukturen und Um
 
 #### Most detailed Level
 
-- Generische Programmierung
+- **Generische Programmierung**
   - von dynamischer Typisierung zu Typparametern
   - Die Studierenden kennen Vor- und Nachteile von statisch gegenüber dynamisch typisierten Sprachen und können Techniken anwenden, um mit den jeweiligen Nachteilen umzugehen.
   - Die Studierenden sind in der Lage, generische Programmbausteine zu verstehen, sinnvoll einzusetzen und zu einem gewissen Grad selbst zu entwickeln.
   - Die Studierenden verstehen insbesondere die Konzepte eines generischen Collection-Frameworks, verstehen zentrale Eigenschaften und Implementationsaspekte wichtiger Collections und können solche gewinnbringend einsetzen.
-- Callbacks,
-- Funktionstypen,
-- Lambda-Ausdrücke,
-- Higher-Order Functions
-- Von Enumerations zu algebraischen Datentypen und Pattern Matching
+
+- **Funktionale Konzepte**
+  - Callbacks
+  - Funktionstypen
+  - Lambda-Ausdrücke
+  - Higher-Order Functions
+
+- **Algebraische Datentypen & Pattern Matching**
+  - Von Enumerations zu algebraischen Datentypen und Pattern Matching
   - Die Studierenden kennen das Konzept von algebraischen Datentypen (Produkt- und Summe-Typen) und können eigene solche Typen entwerfen, implementieren und sinnvoll verwenden.
-- Implementation von dynamischen Datenstrukturen und einfachen Algorithmen:
-  - verkettete Listen,
-  - Bäume,
-  - Graphen
-- Anwendungen von Vererbung (z. B. in GUI- oder Collections-Frameworks)
+
+- **Dynamische Datenstrukturen und Algorithmen**
+  - Implementation von dynamischen Datenstrukturen und einfachen Algorithmen:
+    - verkettete Listen
+    - Bäume
+    - Graphen
+
+- **Vererbung & Framework-Anwendungen**
+  - Anwendungen von Vererbung (z. B. in GUI- oder Collections-Frameworks)
   - Die Studierenden verstehen Nutzen und Risiken von Vererbung, kennen Alternativen dazu und können das Konzept bedacht einsetzen.
-- Ausnahmebehandlung
-- Aufbau und Verwendung von komplexen Bibliotheken und Frameworks
+
+- **Fehlerbehandlung**
+  - Ausnahmebehandlung
+
+- **Bibliotheken und Frameworks**
+  - Aufbau und Verwendung von komplexen Bibliotheken und Frameworks
   - Die Studierenden können sich selbstständig in komplexe Libraries und Frameworks einarbeiten und diese zur effektiven Entwicklung eigener Applikationen verwenden.
 
 ---
