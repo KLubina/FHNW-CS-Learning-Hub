@@ -318,11 +318,15 @@ Programmieren auf höheren Abstraktionsstufen, dynamische Datenstrukturen und Um
 
 #### Most detailed Level
 
+#### Most detailed Level
+
 - **Generische Programmierung**
   - von dynamischer Typisierung zu Typparametern
-  - Die Studierenden kennen Vor- und Nachteile von statisch gegenüber dynamisch typisierten Sprachen und können Techniken anwenden, um mit den jeweiligen Nachteilen umzugehen.
-  - Die Studierenden sind in der Lage, generische Programmbausteine zu verstehen, sinnvoll einzusetzen und zu einem gewissen Grad selbst zu entwickeln.
-  - Die Studierenden verstehen insbesondere die Konzepte eines generischen Collection-Frameworks, verstehen zentrale Eigenschaften und Implementationsaspekte wichtiger Collections und können solche gewinnbringend einsetzen.
+  - Vor- und Nachteile: statisch vs. dynamisch typisierte Sprachen
+  - Techniken zur Kompensation der jeweiligen Nachteile anwenden
+  - Generische Bausteine verstehen, sinnvoll einsetzen, teils selbst entwickeln
+  - Konzepte generischer Collection-Frameworks verstehen
+  - Eigenschaften und Implementationsaspekte wichtiger Collections kennen und anwenden
 
 - **Funktionale Konzepte**
   - Callbacks
@@ -332,24 +336,26 @@ Programmieren auf höheren Abstraktionsstufen, dynamische Datenstrukturen und Um
 
 - **Algebraische Datentypen & Pattern Matching**
   - Von Enumerations zu algebraischen Datentypen und Pattern Matching
-  - Die Studierenden kennen das Konzept von algebraischen Datentypen (Produkt- und Summe-Typen) und können eigene solche Typen entwerfen, implementieren und sinnvoll verwenden.
+  - Algebraische Datentypen (Produkt-/Summentypen) kennen
+  - Eigene Typen entwerfen, implementieren und sinnvoll verwenden
 
 - **Dynamische Datenstrukturen und Algorithmen**
-  - Implementation von dynamischen Datenstrukturen und einfachen Algorithmen:
+  - Implementation dynamischer Datenstrukturen und einfacher Algorithmen:
     - verkettete Listen
     - Bäume
     - Graphen
 
 - **Vererbung & Framework-Anwendungen**
   - Anwendungen von Vererbung (z. B. in GUI- oder Collections-Frameworks)
-  - Die Studierenden verstehen Nutzen und Risiken von Vererbung, kennen Alternativen dazu und können das Konzept bedacht einsetzen.
+  - Nutzen und Risiken von Vererbung verstehen; Alternativen kennen
+  - Vererbung bewusst und situationsgerecht einsetzen
 
 - **Fehlerbehandlung**
   - Ausnahmebehandlung
 
 - **Bibliotheken und Frameworks**
-  - Aufbau und Verwendung von komplexen Bibliotheken und Frameworks
-  - Die Studierenden können sich selbstständig in komplexe Libraries und Frameworks einarbeiten und diese zur effektiven Entwicklung eigener Applikationen verwenden.
+  - Aufbau und Verwendung komplexer Libraries und Frameworks
+  - Selbständige Einarbeitung; effektive Nutzung zur Entwicklung eigener Applikationen
 
 ---
 
