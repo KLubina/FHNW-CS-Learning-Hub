@@ -20,7 +20,7 @@ Systematisch Programme zum Lösen von Problemen entwickeln.
   - grundlegende Konzepte der Programmierung
     - Datentypen
     - Variabeln
-    - Methoden
+    - Methoden/Funktionen
   - grundlegende Konzepte des OOP
     - state vs. behaviour
     - Kapselung
