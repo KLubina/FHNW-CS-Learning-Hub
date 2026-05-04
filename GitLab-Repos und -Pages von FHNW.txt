@@ -1,0 +1,23 @@
+Programming Repos
+
+https://gitlab.fhnw.ch/eidi/2025hs/docs
+https://gitlab.fhnw.ch/prog1/2025hs/docs
+https://gitlab.fhnw.ch/prog2/2026fs/docs
+
+Modulubersicht-Seiten
+
+https://sgi.pages.fhnw.ch/moduluebersicht/2026fs/
+
+Modulseiten
+
+Informationssysteme: https://sgi.pages.fhnw.ch/moduluebersicht/2026fs/insy/drehbuch.html
+UX: https://sgi.pages.fhnw.ch/moduluebersicht/2026fs/ucdre/drehbuch.html
+Basic Maths: https://sgi.pages.fhnw.ch/moduluebersicht/2026fs/mgli/drehbuch.html
+
+Einstieg in Inf: https://sgi.pages.fhnw.ch/moduluebersicht/2026fs/eidi/drehbuch.html
+		 https://eidi.pages.fhnw.ch/2025hs/docs/w01-einstieg-ins-programmieren/lernprogramm.html
+Programmieren 1: https://sgi.pages.fhnw.ch/moduluebersicht/2026fs/prog1/drehbuch.html
+		 https://prog1.pages.fhnw.ch/2025hs/docs/
+
+SweFund:	 https://sgi.pages.fhnw.ch/moduluebersicht/2026fs/swef/drehbuch.html
+		 https://swef1.pages.fhnw.ch/docs/swef-website/fs26/index.html
