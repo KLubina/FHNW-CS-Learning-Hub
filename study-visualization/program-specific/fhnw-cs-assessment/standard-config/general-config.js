@@ -14,5 +14,7 @@ window.StudiengangGeneralConfig = {
     <br>
     <a href="https://www.fhnw.ch/de/informatik/studium/angebot/studiengaenge/informatik/media/schwerpunkte_studiumsrichtungen.pdf/@@display-file/file" target="_blank" rel="noopener">Schwerpunkte Informatik-Fachrichtungen</a>
     <br>
-    <a href="https://www.fhnw.ch/++api++/de/studium/unterstuetzung-rechtliches/formalia/studien-pruefungsordnungen/media/studien-und-pruefungsordnung_hsi_20250915.pdf/@@inline-file/file" target="_blank" rel="noopener">Studien- und Prüfungsordnung HSI</a>`,
+    <a href="https://www.fhnw.ch/++api++/de/studium/unterstuetzung-rechtliches/formalia/studien-pruefungsordnungen/media/studien-und-pruefungsordnung_hsi_20250915.pdf/@@inline-file/file" target="_blank" rel="noopener">Studien- und Prüfungsordnung HSI</a>
+    <br>
+    <a href="https://sgi.pages.fhnw.ch/moduluebersicht/2026fs/" target="_blank" rel="noopener">Modulübersicht FS 2026</a>`,
 };
